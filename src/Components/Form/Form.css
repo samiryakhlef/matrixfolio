@@ -1,0 +1,82 @@
+.form-contact {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.379);
+    opacity: 0.9;
+    border: 1px solid rgb(45, 239, 7);
+    box-shadow: -4px -1px 44px 0px rgba(17, 227, 57, 0.75);
+    -webkit-box-shadow: -4px -1px 44px 0px rgba(255, 255, 255, 0.75);
+    -moz-box-shadow: -4px -1px 44px 0px rgba(17, 227, 57, 0.75);
+}
+
+h4 {
+    color: rgb(255, 255, 255);
+}
+
+.input-items {
+    width: 100% !important;
+    margin: 5px auto;
+    border: 1px solid rgb(45, 239, 7);
+    border-radius: 5px;
+}
+
+textarea {
+    border-radius: 5px;
+    width: 100%;
+    border: 1px solid rgb(45, 239, 7);
+}
+
+.btn-form {
+    text-transform: uppercase;
+    font-size: 14px;
+    width: 100%;
+    margin-top: 15px;
+    padding: 5px;
+    border: 1px solid rgb(45, 239, 7);
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.75);
+    box-shadow: -4px -1px 44px 0px rgba(17, 227, 57, 0.3);
+}
+
+.btn-form:hover {
+        cursor: pointer;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        background: rgb(26, 141, 11);
+        background: linear-gradient(90deg, rgba(20, 160, 7, 0.776) 0%, rgb(1, 0, 6) 100%);
+        padding: 5px 8px;
+        border-radius: 5px;
+        border: 1px solid rgb(45, 239, 7);
+        box-shadow: -4px -1px 44px 0px rgba(17, 227, 57, 0.75);
+        -webkit-box-shadow: -4px -1px 44px 0px rgba(17, 227, 57, 0.75);
+        -moz-box-shadow: -4px -1px 44px 0px rgba(17, 227, 57, 0.75);
+    }
+
+
+.closed {
+    font-size: 15px;
+    text-transform: uppercase;
+    background: #fefefe;
+    padding: 2px 7px;
+    border: 1px solid rgb(26, 141, 11);;
+    border-radius: 5px;
+    height: 100%;
+    margin-left: 200px;
+    color: rgba(0, 3, 1, 0.566);
+    cursor: pointer;
+}
+.closed:hover{
+        cursor: pointer;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        background: rgb(26, 141, 11);
+        background: linear-gradient(90deg, rgba(84, 95, 84, 0.776) 0%, rgb(1, 0, 6) 100%);
+        padding: 5px 8px;
+        border-radius: 5px;
+        border: 1px solid rgb(45, 239, 7);
+        box-shadow: -4px -1px 44px 0px rgba(17, 227, 57, 0.75);
+        -webkit-box-shadow: -4px -1px 44px 0px rgba(17, 227, 57, 0.75);
+        -moz-box-shadow: -4px -1px 44px 0px rgba(17, 227, 57, 0.75);
+    }
